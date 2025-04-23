@@ -24,9 +24,9 @@ This repository contains a comprehensive set of Colab notebooks demonstrating:
 
 ## 🎛️ Part 2: Transfer Learning Across Modalities
 
-### 🔗 Colab Notebooks
-- [Colab1](https://colab.research.google.com/drive/1Id1q8epAt9t1y3CJdWm-TcZG3HTDhHRZ)
-- [Colab2](https://colab.research.google.com/drive/1WsVjF70vKoA5bTfzy9YYU5Mw3v6IuhzY)
+### 🔗 Colab Notebook
+- [Colab](https://colab.research.google.com/drive/1Id1q8epAt9t1y3CJdWm-TcZG3HTDhHRZ)
+
 
 ### 🧠 Use Cases
 - Classification via transfer learning using pretrained models on:
