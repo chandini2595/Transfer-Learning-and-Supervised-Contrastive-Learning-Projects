@@ -40,7 +40,7 @@ This repository contains a comprehensive set of Colab notebooks demonstrating:
 
 ### 🔗 Colab Notebooks
 - [CLIP - Zero Shot](https://colab.research.google.com/drive/1WsVjF70vKoA5bTfzy9YYU5Mw3v6IuhzY?usp=sharing)
-- [TFHub BigTransfer (BiT)](https://colab.research.google.com/drive/1y1KbyB6P6oKZVTvstCSiP8baijaafEkx)
+- [TFHub BigTransfer (BiT)](https://colab.research.google.com/drive/1YJtlPCVDWSRJxtHAciPKZcfyQoDklRCa?usp=sharing)
 
 ### 💡 Highlights
 - **CLIP**: OpenAI’s zero-shot model for vision-language tasks
