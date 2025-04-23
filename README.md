@@ -95,7 +95,7 @@ This repository contains a comprehensive set of Colab notebooks demonstrating:
 ## 🎥 YouTube Walkthrough / Demo
 
 Watch the complete demo and walkthrough of all parts on YouTube:  
-[![Watch on YouTube]](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch on YouTube]](https://youtu.be/zjFlDDo29uw)
 
 
 
